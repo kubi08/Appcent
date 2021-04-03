@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Appcent</string>
+    <string name="search_activity">Ara</string>
+    <string name="navigation_drawer_open">Drawer Aç</string>
+    <string name="navigation_drawer_close">drawer Kapat</string>
+    <string name="read_article_title">Oyun Detayları</string>
+    <string name="news">Oyunlar</string>
+    <string name="favorite">Favoriler</string>
+    <string name="add_favorite">Favorilere Eklendi</string>
+    <string name="del_favorite">Favorilerden Silindi</string>
+    <string name="setting">Ayarlar</string>
+    <string name="search">Ara</string>
+    <string name="category">Kategoriler</string>
+    <string name="article_image">Oyun Resmi</string>
+    <string name="all">Hepsi</string>
+    <string name="business">iş</string>
+    <string name="entertainment">Çevre</string>
+    <string name="health">Sağlık</string>
+    <string name="science">Bilim</string>
+    <string name="sports">Spor</string>
+    <string name="technology">Teknoloji</string>
+    <string name="read_full_with_tab_chrome">Oyunları detaylı incele</string>
+    <string name="share">Paylaş</string>
+    <string name="error_icon">Hata icon</string>
+    <string name="oops_error">Bulunamadı</string>
+    <string name="refresh">Yenile</string>
+    <string name="oops_no_data">Veri Yok</string>
+    <string name="oops_no_data_try_type_again">Veri Yok Tekrar Deneyiniz</string>
+    <string name="splash_text">KubiSoft</string>
+</resources>

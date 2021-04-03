@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navCategory"
+        android:title="@string/category">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/catAll"
+                    android:title="@string/all"
+                    android:icon="@drawable/icons_all" />
+
+            </group>
+        </menu>
+
+    </item>
+</menu>
